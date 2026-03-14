@@ -1,6 +1,6 @@
-# x.y - Template
+# M.2 - Communication and Argumentation
 
-Repository for "Template".
+Repository for "Communication and Argumentation".
 
 
 ## Use instructions
